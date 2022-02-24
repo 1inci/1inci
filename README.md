@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1inci
-- 🌱 I’m currently learning .NET COre, C#, and Java. 
+- 🌱 I’m currently learning .NET Core, C#, and Java. 
 
 <!---
 1inci/1inci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
